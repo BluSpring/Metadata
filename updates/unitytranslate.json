@@ -1,12 +1,28 @@
 {
-    "version": "0.1.12-beta",
-    "downloads": {
-        "fabric-1.20.1": [
-            {
-                "url": "https://cdn.modrinth.com/data/yA7uge1H/versions/sgXiOh2j/UnityTranslate-0.1.12-beta%2B1.20.1-fabric.jar",
-                "sha1": "6d4b480ced85db1564cc74faaad7682aa6497dfd"
-            }
-        ]
-    },
-    "publish_time": 1726649375038
+    "channels": {
+        "stable": {
+            "version": "0.1.12-beta",
+            "downloads": {
+                "fabric-1.20.1": [
+                    {
+                        "url": "https://cdn.modrinth.com/data/yA7uge1H/versions/sgXiOh2j/UnityTranslate-0.1.12-beta%2B1.20.1-fabric.jar",
+                        "sha1": "6d4b480ced85db1564cc74faaad7682aa6497dfd"
+                    }
+                ]
+            },
+            "publish_time": 1726649375038
+        },
+        "beta": {
+            "version": "0.1.19-xushii",
+            "downloads": {
+                "fabric-1.21.1": [
+                    {
+                        "url": "",
+                        "sha1": ""
+                    }
+                ]
+            },
+            "publish_time": 0
+        }
+    }
 }
