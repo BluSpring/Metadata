@@ -2,7 +2,10 @@
     "version": "0.1.12-beta",
     "downloads": {
         "fabric-1.20.1": [
-            "https://cdn.modrinth.com/data/yA7uge1H/versions/sgXiOh2j/UnityTranslate-0.1.12-beta%2B1.20.1-fabric.jar"
+            {
+                "url": "https://cdn.modrinth.com/data/yA7uge1H/versions/sgXiOh2j/UnityTranslate-0.1.12-beta%2B1.20.1-fabric.jar",
+                "sha1": "6d4b480ced85db1564cc74faaad7682aa6497dfd"
+            }
         ]
     },
     "publish_time": 1726649375038
